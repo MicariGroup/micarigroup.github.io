@@ -1,2 +1,0 @@
-# micarigroup.github.io
-Website
